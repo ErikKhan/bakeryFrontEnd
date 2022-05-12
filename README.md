@@ -1,6 +1,6 @@
 # FrontEnd Project 1 "Bakery-where everything tastes better"
 ***The is the First frontEnd Project Using only HTML and CSS.***
-In this project **HTML** and **CSS** has been used. The Navigation part is done using **FlexBox**, the body part is done using **Grid** and **Bootstrap** has also been used in some parts. Some animations, behaviours, transformation has also been used.
+In this project **HTML** and **CSS** has been used. The Navigation part is done using **FlexBox**, the body part is done using **Grid** and **Bootstrap** has also been used in some parts. Some animations, behaviours, transformation has also been used. The app is also **Mobile Responsive**.
 ## Specifications requested by the client
 1. The site must work on phones and also computers. :heavy_check_mark:
 2. Must have min. 4 pages: Home page, About page, Products page, Contact page.:heavy_check_mark:
